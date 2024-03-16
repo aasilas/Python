@@ -1,0 +1,2 @@
+print("Defina uma lista")
+    
